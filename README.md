@@ -8,7 +8,7 @@ I am Tuna from Turkey and I am a Computer Engineering student.I am 21 and it's m
 
 Skills: C
 
-- 🔭 I’m currently working on Java and JavaScript 
+- 🔭 I’m currently working on FrontEnd, Java and JavaScript 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/TunaBostancıbaşı/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tuna.bstcn/)  
